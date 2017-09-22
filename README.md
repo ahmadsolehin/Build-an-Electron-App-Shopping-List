@@ -1,6 +1,13 @@
 # Electron ShoppingList Desktop App
 
-This is a cross platform shoppinglist desktop application built on electron
+<li>This is a cross platform shoppinglist desktop application built on electron</li>
+<li>
+  build a minimal shopping list app with a custom menu and multiple windows and implement Materialize CSS for styling
+  </li>
+  
+  <li>
+  publish the app to a Windows .exe file using the Electron Packager.
+  </li>
 
 ## screenshot
 
