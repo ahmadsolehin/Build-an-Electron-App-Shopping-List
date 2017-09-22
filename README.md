@@ -9,6 +9,7 @@ This is a cross platform shoppinglist desktop application built on electron
 
 ![nn](https://user-images.githubusercontent.com/12325386/30737004-916cec52-9fb7-11e7-9ed3-1e8b963fc635.JPG)
 
+![nn](https://user-images.githubusercontent.com/12325386/30737016-a1bdc036-9fb7-11e7-9ac1-7532b1060057.JPG)
 
 ### Version
 1.0.0
