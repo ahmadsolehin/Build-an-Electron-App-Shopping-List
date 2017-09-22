@@ -2,6 +2,10 @@
 
 This is a cross platform shoppinglist desktop application built on electron
 
+## screenshot
+
+
+
 ### Version
 1.0.0
 
