@@ -1,6 +1,7 @@
 # Electron ShoppingList Desktop App
 
 <li>This is a cross platform shoppinglist desktop application built on electron</li>
+<li> build a desktop application using Electron.js which allows us to build desktop apps using only JavaScript. </li>
 <li>
   build a minimal shopping list app with a custom menu and multiple windows and implement Materialize CSS for styling
   </li>
